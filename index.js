@@ -1,3 +1,5 @@
+//Directory changed
+
 // Kodlar Buraya
 let temp_div = document.querySelector(".description");
 let temp_body = document.getElementsByTagName("body")[0];
